@@ -58,14 +58,17 @@
 ## Usage :
 
 - Register/Login: 
-  - Register for a new account or log in with existing credentials. 
+  - Register for a new account or log in with existing credentials.
+    
 - Create a Post: 
   - Navigate to the "Create Post" section. 
   - Select a category (e.g., Java, Python, Cyber Security). 
-  - Write your post and submit it. 
+  - Write your post and submit it.
+    
 - Explore Posts: 
   - Browse posts by category to find relevant content. 
-  - Like posts that you find helpful or informative. 
+  - Like posts that you find helpful or informative.
+    
 - Update Profile: 
   - Go to the profile section to update your information if needed. 
 
